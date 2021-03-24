@@ -1,3 +1,3 @@
 # lyncode.me
 
-LANGUAGE: HTML & CSS & JAVASCRİPT
+Language: HTML & CSS & JAVASCRİPT
